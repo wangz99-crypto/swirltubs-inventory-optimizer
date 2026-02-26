@@ -69,7 +69,7 @@ This allows decision makers to assess how robust the stocking plan is under fluc
 An interactive version of this decision tool is deployed on Streamlit:
 
 👉 **Launch the App:**  
-https://YOUR-APP-LINK.streamlit.app
+https://swirltubs-inventory-optimizer-jdrrzrf8rhdyce2ixlegdz.streamlit.app/
 
 Users can:
 
